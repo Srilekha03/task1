@@ -6,5 +6,5 @@ Name: srilekha
 position: Analyst
 Organization:CG
 
-
+School: ABC
 professional details
