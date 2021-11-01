@@ -7,4 +7,5 @@ position: Analyst
 Organization:CG
 
 School: ABC
+percentage: 95
 professional details
